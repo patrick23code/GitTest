@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("umut")
         print("nil")
     }
+        print("2")
 
 
 }
