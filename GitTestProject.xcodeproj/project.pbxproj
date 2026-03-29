@@ -13,6 +13,13 @@
 		30590077247CFCA0002B9546 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30590075247CFCA0002B9546 /* Main.storyboard */; };
 		30590079247CFCA2002B9546 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30590078247CFCA2002B9546 /* Assets.xcassets */; };
 		3059007C247CFCA2002B9546 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3059007A247CFCA2002B9546 /* LaunchScreen.storyboard */; };
+		AA010000247CFCA0002B9546 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA010001247CFCA0002B9546 /* Models.swift */; };
+		AA020000247CFCA0002B9546 /* BudgetStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA020001247CFCA0002B9546 /* BudgetStore.swift */; };
+		AA030000247CFCA0002B9546 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA030001247CFCA0002B9546 /* ContentView.swift */; };
+		AA040000247CFCA0002B9546 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA040001247CFCA0002B9546 /* DashboardView.swift */; };
+		AA050000247CFCA0002B9546 /* TransactionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA050001247CFCA0002B9546 /* TransactionsView.swift */; };
+		AA060000247CFCA0002B9546 /* DebtsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA060001247CFCA0002B9546 /* DebtsView.swift */; };
+		AA070000247CFCA0002B9546 /* ReportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA070001247CFCA0002B9546 /* ReportsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		30590078247CFCA2002B9546 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3059007B247CFCA2002B9546 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3059007D247CFCA2002B9546 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA010001247CFCA0002B9546 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		AA020001247CFCA0002B9546 /* BudgetStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetStore.swift; sourceTree = "<group>"; };
+		AA030001247CFCA0002B9546 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AA040001247CFCA0002B9546 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		AA050001247CFCA0002B9546 /* TransactionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionsView.swift; sourceTree = "<group>"; };
+		AA060001247CFCA0002B9546 /* DebtsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebtsView.swift; sourceTree = "<group>"; };
+		AA070001247CFCA0002B9546 /* ReportsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +73,13 @@
 				3059006F247CFCA0002B9546 /* AppDelegate.swift */,
 				30590071247CFCA0002B9546 /* SceneDelegate.swift */,
 				30590073247CFCA0002B9546 /* ViewController.swift */,
+				AA010001247CFCA0002B9546 /* Models.swift */,
+				AA020001247CFCA0002B9546 /* BudgetStore.swift */,
+				AA030001247CFCA0002B9546 /* ContentView.swift */,
+				AA040001247CFCA0002B9546 /* DashboardView.swift */,
+				AA050001247CFCA0002B9546 /* TransactionsView.swift */,
+				AA060001247CFCA0002B9546 /* DebtsView.swift */,
+				AA070001247CFCA0002B9546 /* ReportsView.swift */,
 				30590075247CFCA0002B9546 /* Main.storyboard */,
 				30590078247CFCA2002B9546 /* Assets.xcassets */,
 				3059007A247CFCA2002B9546 /* LaunchScreen.storyboard */,
@@ -141,6 +162,13 @@
 				30590074247CFCA0002B9546 /* ViewController.swift in Sources */,
 				30590070247CFCA0002B9546 /* AppDelegate.swift in Sources */,
 				30590072247CFCA0002B9546 /* SceneDelegate.swift in Sources */,
+				AA010000247CFCA0002B9546 /* Models.swift in Sources */,
+				AA020000247CFCA0002B9546 /* BudgetStore.swift in Sources */,
+				AA030000247CFCA0002B9546 /* ContentView.swift in Sources */,
+				AA040000247CFCA0002B9546 /* DashboardView.swift in Sources */,
+				AA050000247CFCA0002B9546 /* TransactionsView.swift in Sources */,
+				AA060000247CFCA0002B9546 /* DebtsView.swift in Sources */,
+				AA070000247CFCA0002B9546 /* ReportsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
